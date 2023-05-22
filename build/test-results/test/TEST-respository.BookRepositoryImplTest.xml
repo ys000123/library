@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="respository.BookRepositoryImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-22T07:27:42" hostname="DESKTOP-M3GPKIV" time="0.363">
+  <properties/>
+  <testcase name="findAllConditionTest()" classname="respository.BookRepositoryImplTest" time="0.363"/>
+  <system-out><![CDATA[isbm
+isbm1
+isbm2
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
